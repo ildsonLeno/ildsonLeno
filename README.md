@@ -7,9 +7,9 @@
 - 📝 Estudando programação
 
 <div align="center">
-  <a href="https://github.com/newryan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newryan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newryan&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/ildsonLeno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ildsonLeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildsonLeno&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
