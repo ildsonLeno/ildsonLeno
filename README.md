@@ -2,9 +2,7 @@
 </div>!👋🤓
 
 
-
-- 📡 Hoje trabalhando com telecomunicações (provedor)
-- 📝 Estudando programação
+- 📝 Graduando em Análise e Desenvolvimento de Sistemas - UNIASSELVI
 
 <div align="center">
   <a href="https://github.com/ildsonLeno">
